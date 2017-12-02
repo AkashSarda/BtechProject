@@ -1,0 +1,1 @@
+geth --mine --nodiscover --maxpeers 1 --networkid 13 --rpc --rpccorsdomain "*" --etherbase "729757236781ee2c4da3e125769df1c7b0d7acdc" --bootnodes 20c293de4e68aa995f529b78fde5a49834942a10ab0483479bb0ec0354e1f7e7cff0e419bfe3e3b5477305803b6bfa2c67ffd6bace9701fb1b2843086c7e4238@10.1.119.53:30303
